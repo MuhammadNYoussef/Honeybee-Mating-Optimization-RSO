@@ -1,7 +1,7 @@
 # Honeybee Mating Optimization with Benchmark Functions
 Implementation of **Honeybee Mating Optimization (HBMO)** algorithm on various benchmark functions. HBMO is a metaheuristic algorithm that simulates the mating behavior of honeybees to find the optimal solution to a given problem.
 The scripts in this repository implement HBMO on benchmark functions such as **Rastrigin**, **Rosenbrock**, and **Sphere** functions to demonstrate the effectiveness of the algorithm.
-
+<br>Project in collaboration with [Rolahossam](https://github.com/Rolahossam)<br>
 ## Benchmark Functions Visualization
 
 | ![Wikipedia Optimization Techniques](https://i.imgur.com/8NtgxXI.png)Reference: https://en.wikipedia.org/wiki/Test_functions_for_optimization 	|
